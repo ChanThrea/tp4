@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+}
+
+#conteneur{
+    width: 770px;
+    margin: 0 auto;
+}
+
+ul{
+    text-align: center;
+    text-align: justify;
+    display:contents;
+}
+
+ul li a{
+    display: block;
+    width: 130px;
+    line-height: 25px;
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(255, 0, 0);
+}
+
