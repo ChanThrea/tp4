@@ -1,0 +1,50 @@
+header{
+    font-family: 'Shadows Into Light Two', cursive;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+section{
+    background-color: #29347B;
+    width: 650px;
+    margin: auto;
+    height: 730px;
+}
+
+ .chat{
+     float: left;
+     display: flex;
+     justify-content: center;
+     margin: 10px 0px 10px 10px auto;
+     padding: 10px 0px 10px 10px;
+     flex: 5px 5px 10px auto;
+     align-items: center;
+     justify-content:flex-end;
+ }
+
+.contenair1, .contenair2, .contenair3, p{
+    font-family: 'Shadows Into Light Two', cursive;
+    color: white;
+    font-size: 10px;
+ }
+
+.contenair1,.img{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+}
+
+.contenair2,.img{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+}
+
+.contenair3,.img{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    margin: auto;
+}
+
