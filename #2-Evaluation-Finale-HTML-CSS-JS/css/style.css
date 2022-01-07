@@ -1,0 +1,74 @@
+/* image fond voiture dans header*/
+header {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 800px;
+}
+
+/* bienvenue à bord */
+h1 {
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+/* Location de voiture */
+h2 {
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  font-weight: lighter;
+}
+
+/* bouton prix croissant */
+#btnGroupDrop1 {
+  background-color: rgb(208, 208, 208);
+  color: black;
+  border: white;
+  margin-left: 1450px;
+}
+
+/* textes dans classe voiture */
+p {
+  font-family: Arial;
+}
+
+/* textes dans voiture et bouton réserver et payer */
+.voiture {
+  margin-left: 900px;
+  margin-top: -150px;
+}
+
+/* voiture Peugeot 208 */
+section img {
+  margin-left: 300px;
+  margin-top: 60px;
+}
+
+/* 7 résultats */
+.resultats {
+  margin-left: 300px;
+}
+
+/* voiture Ford Focus */
+.voiture2 {
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+/* image agence footer */
+footer img {
+  width: 260px;
+  align-items: center;
+  padding: 5px 50px;
+}
+
+/* footer */
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+}
